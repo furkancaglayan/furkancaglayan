@@ -8,24 +8,30 @@
 </h1>
 
 <h3 align="center">Gameplay programmer in TaleWorlds</h3>
+<div align=center>
 
-- 🔭 I’m currently working on **Mount & Blade II: Bannerlord**
+  🔭 I’m currently working on **Mount & Blade II: Bannerlord**
 
-- 📫 Reach me at **furkancaglayan15@hotmail.com**
+ 📫 Reach me at **furkancaglayan15@hotmail.com**
 
+</div>
 <h3 align="center">Connect with me:</h3>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/furkan-caglayan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/furkan-caglayan/" title="LinkedIn Profile"><img width="32" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://twitter.com/_beybi123" title="Twitter Profile"><img width="32" src="images/x-twitter.svg"> X (Twitter)</a></code>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-    <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="C++" height="32" src="images/cpp.svg"></code>
+  <code><img title="C#" height="32" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="32" src="images/python-original.svg"></code>
+  <code><img title="Unity" height="32" src="images/unity3d.svg"></code>
+  <code><img title="OpenGL" height="32" src="images/glsl-svgrepo-com.svg"></code>
+  <code><img title="NUnit" height="32" src="images/Nunit_logo_250.png"></code>
+  <code><img title="Blender" height="32" src="images/blender-svgrepo-com.svg"></code>
+  <code><img title="Microsoft Visual Studio" height="32" src="images/visualstudio.png"></code>
+  <code><img title="GitHub" height="32" src="images/github.svg"></code>
 </p>
 <hr>
 

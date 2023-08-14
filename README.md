@@ -37,10 +37,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
   <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkancaglayan&theme=onedark&hide_border=false" alt="furkancaglayan" />
+  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkancaglayan&theme=onedark&hide_border=false" alt="furkancaglayan" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=furkancaglayan&show_icons=true&theme=onedark&hide_border=false" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=furkancaglayan&show_icons=true&theme=onedark&hide_border=false" />
 </a>
 
 

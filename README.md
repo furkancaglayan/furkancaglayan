@@ -39,36 +39,36 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=furkancaglayan&theme=onedark&border=61dafb&hide_border=true" alt="furkancaglayan" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=furkancaglayan&theme=onedark&hide_border=false" alt="furkancaglayan" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=furkancaglayan&show_icons=true&theme=onedark&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=furkancaglayan&show_icons=true&theme=onedark&hide_border=false" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
 
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkancaglayan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=e4bf7a&text_color=df6d74&icon_color=8eb573&bg_color=282c34&langs_count=6&layout=compact&border_color=61dafb&hide_border=true&theme=dark" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkancaglayan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=e4bf7a&text_color=df6d74&icon_color=8eb573&bg_color=282c34&langs_count=6&layout=compact&border_color=FFFFFF&hide_border=false&theme=dark" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furkancaglayan&theme=onedark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furkancaglayan&theme=onedark&border_radius=10&bg_color=20232a&&hide_border=false" width="100%"/>
 </p>
 
 <h2 align="center">👨‍💻 Ongoing Projects 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/furkancaglayan/mix-model-viewer" title="Mix Model Viewer"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=mix-model-viewer&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/furkancaglayan/mix-model-viewer" title="Mix Model Viewer"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=mix-model-viewer&theme=onedark&border_color=FFFFFF&border_radius=10 "></a>
 </div>
 
 
 
-<h2 align="center">Bannerlord Mods</h2>
+<h2 align="center">Bannerlord Mods </h2>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/furkancaglayan/Calradian-Patrols-V2" title="Calradian Patrols"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=Calradian-Patrols-V2&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/furkancaglayan/Calradian-Patrols-V2" title="Calradian Patrols"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=Calradian-Patrols-V2&theme=onedark&border_color=FFFFFF&border_radius=10"></a>
 </div>
 
 

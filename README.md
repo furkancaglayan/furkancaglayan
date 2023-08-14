@@ -2,7 +2,7 @@
     
     
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Furkan....;Nice+to+meet+you!&center=true&size=30">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Furkan....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -56,7 +56,9 @@
 <h2 align="center">👨‍💻 Ongoing Projects 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/furkancaglayan/mix-model-viewer" title="Mix Model Viewer"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=mix-model-viewer&theme=onedark&border_color=FFFFFF&border_radius=10 "></a>
+  <a href="https://github.com/furkancaglayan/mix-model-viewer" title="Mix Model Viewer">
+  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=mix-model-viewer&theme=onedark&border_color=FFFFFF&border_radius=10&show_owner=true ">
+  </a>
 </div>
 
 
@@ -64,10 +66,18 @@
 <h2 align="center">Bannerlord Mods </h2>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/furkancaglayan/Calradian-Patrols-V2" title="Calradian Patrols"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=Calradian-Patrols-V2&theme=onedark&border_color=FFFFFF&border_radius=10"></a>
+  <a href="https://github.com/furkancaglayan/Calradian-Patrols-V2" title="Calradian Patrols">
+  <img align="center"  width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=Calradian-Patrols-V2&theme=onedark&border_color=FFFFFF&border_radius=10&show_owner=true">
+  </a>
 </div>
 
+  <br>
+  <br>
+  <br>
+  <br>
 
+
+<h2 align="center">🚀 Latest Activity </h2>
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v4.0.0](https://github.com/furkancaglayan/Calradian-Patrols-V2/releases/tag/v4.0.0) in [furkancaglayan/Calradian-Patrols-V2](https://github.com/furkancaglayan/Calradian-Patrols-V2)

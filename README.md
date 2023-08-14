@@ -35,18 +35,18 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
+  <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkancaglayan&theme=onedark&hide_border=false" alt="furkancaglayan" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkancaglayan&theme=onedark&hide_border=false" alt="furkancaglayan" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=furkancaglayan&show_icons=true&theme=onedark&hide_border=false" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=furkancaglayan&show_icons=true&theme=onedark&hide_border=false" />
 </a>
 
 
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkancaglayan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=e4bf7a&text_color=df6d74&icon_color=8eb573&bg_color=282c34&langs_count=6&layout=compact&border_color=FFFFFF&hide_border=false&theme=dark" />
+      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkancaglayan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=e4bf7a&text_color=df6d74&icon_color=8eb573&bg_color=282c34&langs_count=6&layout=compact&border_color=FFFFFF&hide_border=false&theme=dark" />
     </a>
   </div>
   <br>

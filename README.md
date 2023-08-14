@@ -57,7 +57,7 @@
 <br>
 <div width="100%" align="center">
   <a href="https://github.com/furkancaglayan/mix-model-viewer" title="Mix Model Viewer">
-  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=mix-model-viewer&theme=onedark&border_color=FFFFFF&border_radius=10&show_owner=true ">
+  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=mix-model-viewer&theme=onedark&border_color=FFFFFF&border_radius=10&show_owner=true">
   </a>
 </div>
 

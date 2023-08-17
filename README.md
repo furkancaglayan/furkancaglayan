@@ -73,6 +73,13 @@
 
   <br>
   <br>
+
+<div width="100%" align="center">
+  <a href="https://github.com/furkancaglayan/Calradian-Deserters" title="Calradian Deserters">
+  <img align="center"  width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=furkancaglayan&repo=Calradian-Deserters&theme=onedark&border_color=FFFFFF&border_radius=10&show_owner=true">
+  </a>
+</div>
+
   <br>
   <br>
 

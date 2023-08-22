@@ -87,5 +87,5 @@
 <h2 align="center">🚀 Latest Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/furkancaglayan/Calradian-Deserters/releases/tag/v1.0.0) in [furkancaglayan/Calradian-Deserters](https://github.com/furkancaglayan/Calradian-Deserters)
+1. 🚀 Published release [v1.0.1 (Release)](https://github.com/furkancaglayan/Calradian-Deserters/releases/tag/v1.0.1) in [furkancaglayan/Calradian-Deserters](https://github.com/furkancaglayan/Calradian-Deserters)
 <!--END_SECTION:activity-->
